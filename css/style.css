@@ -1,0 +1,73 @@
+body{
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(1A2A80); 
+        padding: 1cm;
+    }
+    header {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(129,95,245);
+        padding: 15px;
+        text-align: center;
+        border-radius: 10px;
+        color: white;
+    }
+    section {
+        background-color:  #845ef5;
+        text-align: center;
+        border-radius: 15px;
+        color: white;
+        padding: 15px;
+    }
+    img {
+        border-radius: 100px;
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+
+    }
+    main {
+        background-color: #845ef5;
+        border-radius: 15px;
+        color: white;
+        text-align: center;
+
+    }
+    hr {
+        border-radius: 15px;
+        
+    }
+    .belajar-box-sizing {
+        box-sizing: border-box;
+        background-color: blueviolet;
+        width: 500px;
+        padding: 50px;
+        margin: auto;
+        text-align: center;
+        border: 8px solid black;
+
+    }
+    footer {
+        background-color: #845ef5;
+        border-radius: 15px;
+        color: white;
+        padding: 15px;
+        text-align: center;
+        text-decoration: none;  
+    }
+    .sosmed {
+    justify-content: center;
+    padding: 7px;
+}
+
+.sosmed li {
+    list-style: none;
+    background-color: rgb(165, 118, 118);
+    border-radius: 8px;
+    padding: 7px;
+    margin: 10px;
+    width: 150px;
+}
+/* belajar-margin */
+ section {
+    margin-top: 30px;
+}
